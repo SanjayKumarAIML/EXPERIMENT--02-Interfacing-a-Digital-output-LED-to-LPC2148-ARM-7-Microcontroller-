@@ -1,5 +1,7 @@
-# EXPERIMENT--02-Interfacing-a-Digital-output-LED-to-LPC2148-ARM-7-Microcontroller-
-## Interfacing a Digital output (LED) to LPC2148 ARM 7 Microcontroller 
+# EXP-02-Interfacing-a-Digital-output-LED-to-LPC2148-ARM-7-Microcontroller
+### Name : Sanjay Kumar.S.S
+### Roll no: 212221240048
+### Date of Experiment : 
 
 ## Aim: 
 To Interface a Digital output (LED) to LPC2148 ARM 7 and write a blink code 
@@ -152,12 +154,12 @@ int main()
 ## Output screen shots :
 
 
-    BEFORE BLINKING: 
+ BEFORE BLINKING: 
 
 
 ![output](1.png)
 
-    AFTER BLINKING: 
+  AFTER BLINKING: 
 
 
 ![output](2.png)
